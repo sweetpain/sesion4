@@ -1,0 +1,22 @@
+*{margin: 10px;
+	padding: 0px; 
+box-sizing: border-box;
+}
+
+div {
+	width:300px; 
+	 height :300px;
+}
+
+
+.conbox{
+	background: #5F5079;
+	 border: 15px solid red;
+	 padding: 20px;
+	 box-sizing: border-box;
+}
+.sinbox{
+	background: #C06E6E;
+	 
+
+}

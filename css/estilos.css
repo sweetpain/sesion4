@@ -1,0 +1,20 @@
+div {
+	background: #15F804;
+	width: 120px;
+	height: 80px;
+}
+
+#caja1{
+	display: block;
+
+	border: 3px solid #2A63CB;
+}
+
+#caja2,#caja3{
+	display: inline;
+	border: 3px solid #2A63CB;
+}
+#caja4{
+	display: none;
+	border: 3px solid #2A63CB;
+}
